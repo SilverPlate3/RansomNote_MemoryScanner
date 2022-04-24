@@ -23,5 +23,5 @@ These signature are hard to produce and are very time consuming. With this tool 
     A) CLI will show the 3 keywords that were found by there order.  
     B) CLI will show the address of the memory page which contains the ransom note.  
     C) An output folder will be created with a .txt file that holds the ransom note or part of it. The .txt file will be named after the ransomware hash.  
-       If shown in static condition, the strings that are in the .txt file can be used to create basic AV/Yara signatures as well.
+       If shown in the static condition, the strings that are in the .txt file can be used to create a basic AV/Yara signatures as well.
 
