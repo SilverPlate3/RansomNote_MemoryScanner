@@ -25,3 +25,7 @@ These signature are hard to produce and are very time consuming. With this tool 
     C) An output folder will be created with a .txt file that holds the ransom note or part of it. The .txt file will be named after the ransomware hash.  
        If shown in the static condition, the strings that are in the .txt file can be used to create a basic AV/Yara signatures as well.
 
+
+
+# Showoff video
+90 seconds that shows how to use the tool and the output we get from it:  https://youtu.be/LFcS3f5q2Us
